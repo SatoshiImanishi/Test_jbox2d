@@ -1,0 +1,3 @@
+include ':app'
+include 'Modules:AndEngine'
+include 'Modules:PhysicBox2D'
